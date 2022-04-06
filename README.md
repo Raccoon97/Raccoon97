@@ -8,7 +8,7 @@
   <a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-FF4500?style=flat&logo=Swift&logoColor=white"/></a>
   
   ---
-<a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cherished322"/></a>
+<a><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=raccoon97"/></a>
   <br>
 
 </div>
